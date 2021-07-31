@@ -36,9 +36,3 @@ Use this command to offer trade for 2 slugs.
 Use this command to remove the offer to trade for slugs.
 #### acceptTrade:
 Use this command to accept a trade offer.
-
-## GUIDE TO ADD SLUGCORD TO YOUR SERVER:
-### Step 1 : Go to https://discord.com/developers/applications, click on New Application and name it as SlugCord. After creating a new application, go to OAuth2 and select scope as bot. In bot permissions, check Send Messages. Now copy the link at the bottom of Scopes and copy and paste it into your browser follow the steps as shown on the webpage
-### Step 2 : Go to Bot on Discord Developer Portal and click on the Copy button.
-### Step 3 : Fork this project.
-### Step 4 : Go to Secrets on the sidebar and create a new secret with its key as `TOKEN` and its value as the text you copied earlier. You're all set!
